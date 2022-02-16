@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-03-introduction-to-political-thought-spring-2004/36212e8b1e63cd47f6c789dd6a93b879_outline_hobbes3.pdf
+file: /media/courses/17-03-introduction-to-political-thought-spring-2004/36212e8b1e63cd47f6c789dd6a93b879_outline_hobbes3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: outline_hobbes3.pdf
 uid: 36212e8b-1e63-cd47-f6c7-89dd6a93b879
