@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af9374e0-f1e8-5045-93fe-6d9c758bfec8
 resourcetype: Document
 title: outlinetocvile1.pdf
 uid: 72ea0e7d-6b59-08dd-ead4-355a3e11779a

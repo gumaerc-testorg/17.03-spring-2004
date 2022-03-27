@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af9374e0-f1e8-5045-93fe-6d9c758bfec8
 resourcetype: Document
 title: outlinerousseau4.pdf
 uid: 174ef54f-bf70-d01d-4104-4aa8aad9ecf8

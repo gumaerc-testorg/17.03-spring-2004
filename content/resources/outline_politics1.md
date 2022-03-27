@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af9374e0-f1e8-5045-93fe-6d9c758bfec8
 resourcetype: Document
 title: outline_politics1.pdf
 uid: f54d302d-2d7a-e84f-cd78-5f0bdb6841f0
