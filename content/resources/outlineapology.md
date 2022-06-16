@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-03-introduction-to-political-thought-spring-2004/cbe9c539174cc7aafeda58a3b92dd84d_outlineapology.pdf
+file: /courses/17-03-introduction-to-political-thought-spring-2004/cbe9c539174cc7aafeda58a3b92dd84d_outlineapology.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

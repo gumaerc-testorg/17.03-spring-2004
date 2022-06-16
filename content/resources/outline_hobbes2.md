@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-03-introduction-to-political-thought-spring-2004/c78f2a18641f7ca93cc4f8f7fbed4906_outline_hobbes2.pdf
+file: /courses/17-03-introduction-to-political-thought-spring-2004/c78f2a18641f7ca93cc4f8f7fbed4906_outline_hobbes2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

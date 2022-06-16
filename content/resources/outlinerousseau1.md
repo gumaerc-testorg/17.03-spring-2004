@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-03-introduction-to-political-thought-spring-2004/0f40d9e9dea09ff2418df395051336c5_outlinerousseau1.pdf
+file: /courses/17-03-introduction-to-political-thought-spring-2004/0f40d9e9dea09ff2418df395051336c5_outlinerousseau1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
