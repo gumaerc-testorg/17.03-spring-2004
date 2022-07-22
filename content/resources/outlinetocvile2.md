@@ -5,6 +5,7 @@ file: /courses/17-03-introduction-to-political-thought-spring-2004/c5eba129a7e7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
