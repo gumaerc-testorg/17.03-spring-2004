@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-03-introduction-to-political-thought-spring-2004/f7518df13adf9f622860d9d87d7c9e9a_outline_macveli1.pdf
+file: /ol-ocw-studio-app/courses/17-03-introduction-to-political-thought-spring-2004/f7518df13adf9f622860d9d87d7c9e9a_outline_macveli1.pdf
+file_size: 17346
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

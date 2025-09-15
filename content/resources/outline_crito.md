@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-03-introduction-to-political-thought-spring-2004/353055dfaa9cc9413aa5eef0dc7c8d6a_outline_crito.pdf
+file: /ol-ocw-studio-app/courses/17-03-introduction-to-political-thought-spring-2004/353055dfaa9cc9413aa5eef0dc7c8d6a_outline_crito.pdf
+file_size: 16859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

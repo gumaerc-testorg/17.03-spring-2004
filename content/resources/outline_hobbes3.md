@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-03-introduction-to-political-thought-spring-2004/36212e8b1e63cd47f6c789dd6a93b879_outline_hobbes3.pdf
+file: /ol-ocw-studio-app/courses/17-03-introduction-to-political-thought-spring-2004/36212e8b1e63cd47f6c789dd6a93b879_outline_hobbes3.pdf
+file_size: 17178
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
